@@ -1,1 +1,1 @@
-echo "Hello Welcome to GitHUB!"
+echo "Hello Welcome to Shell scriptingx!"
