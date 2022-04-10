@@ -1,2 +1,1 @@
-echo "Helloo
-"
+echo "Hello Welcome to GitHUB!"
